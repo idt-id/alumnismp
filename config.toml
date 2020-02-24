@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "https://idt-id.github.io/alumnismp/"
 languageCode = "en-us"
 title = "Galeri Foto Alumni SMPN 1 Pasirian"
 publishDir = "docs"
