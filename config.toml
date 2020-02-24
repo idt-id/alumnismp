@@ -14,7 +14,7 @@ layoutdir = "layouts"
 
 [params]
     # Meta
-    title = "Hugrid - a simple grid theme for Hugo"
+    title = "Galeri foto Alumni SMPN 1 Pasirian"
     subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
     author = "Pavel Kanyshev"
     description = "Hugrid - grid theme for Hugo with an expanding image preview."
