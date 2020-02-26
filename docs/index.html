@@ -454,7 +454,7 @@ if (!doNotTrack) {
 					create : function() {
 						this.$title = $( '<h3></h3>' );
 						this.$description = $( '<p></p>' );
-						this.$href = $( '<a href="#" target="_blank">Get the theme</a>' );
+						this.$href = $( '<a href="#" target="_blank">Hubungi Aku</a>' );
 						this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$href );
 						this.$loading = $( '<div class="og-loading"></div>' );
 						this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
@@ -493,7 +493,7 @@ if (!doNotTrack) {
 						this.$title.html( eldata.title );
 						this.$description.html( eldata.description );
 						if(eldata.buttontext) this.$href.text(eldata.buttontext);
-						else this.$href.text("Get the theme")
+						else this.$href.text("Hubungi aku")
 
 						if (eldata.href) {
 							this.$href.attr( 'href', eldata.href );
